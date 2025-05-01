@@ -12,7 +12,7 @@ Checkout with Stripe payment integration
 
 Admin dashboard for product and order management
 
-RESTful API architecture (MVC pattern)
+ (MVC pattern)
 
 MongoDB with Mongoose for data modeling
 
@@ -29,7 +29,6 @@ Authentication: Sessions, bcrypt
 
 Payments: Stripe API
 
-Deployment: [Optional – Heroku / Render / Vercel]
 
 📂 Project Structure
 
@@ -40,8 +39,6 @@ Deployment: [Optional – Heroku / Render / Vercel]
 ├── views/
 ├── public/
 └── utils/
-📸 Screenshots
-Add a few screenshots of the main pages: product listing, cart, checkout, admin panel.
 
 🧑‍💻 Getting Started
 Clone the repo
